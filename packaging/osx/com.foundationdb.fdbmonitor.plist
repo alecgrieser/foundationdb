@@ -11,6 +11,7 @@
       <string>/usr/local/etc/foundationdb/foundationdb.conf</string>
       <string>--lockfile</string>
       <string>/var/run/FoundationDB.pid</string>
+      <string>--daemonize</string>
     </array>
     <key>KeepAlive</key>
     <true/>
